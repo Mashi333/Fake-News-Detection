@@ -92,3 +92,6 @@ This project is licensed under the **MIT License**.
 Feel free to contribute or modify this project!
 
 ⚙️ Developed for educational and research purposes only.
+
+<img width="612" height="597" alt="image" src="https://github.com/user-attachments/assets/1eb69f2f-faad-4ff4-ab7f-09c850cc8661" />
+
